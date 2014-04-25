@@ -1,0 +1,5 @@
+莲（Lotus）
+----------------------------------------
+depend libqxmpp 0.7.6
+Ubuntu：
+sudo apt-get install libqxmpp-dev

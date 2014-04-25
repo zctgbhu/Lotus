@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_HK\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+#: ../src/aboutdialog.ui:14
+msgctxt "AboutDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/aboutdialog.ui:32
+msgctxt "AboutDialog|"
+msgid "Close"
+msgstr ""
+
+#: ../src/aboutdialog.ui:70
+msgctxt "AboutDialog|"
+msgid "About Lotus"
+msgstr ""
+
+#: ../src/aboutdialog.ui:82
+msgctxt "AboutDialog|"
+msgid "Lotus"
+msgstr ""
+
+#: ../src/aboutdialog.ui:95
+msgctxt "AboutDialog|"
+msgid "V1.0 Alpha2"
+msgstr ""
+
+#: ../src/aboutdialog.ui:108
+msgctxt "AboutDialog|"
+msgid "<a href=\"https://launchpad.net/lotus\">Homepage</a>"
+msgstr ""
+
+#: ../src/aboutdialog.ui:143
+msgctxt "AboutDialog|"
+msgid ""
+"Copyright(C)2013,  UbuntuKylin Team & National University of Defense "
+"Technology & Kylin LTD."
+msgstr ""
+
+#: ../src/aboutdialog.ui:159
+msgctxt "AboutDialog|"
+msgid ""
+"<html><head/><body><p>Lotus, based on XMPP protocol IM client, is launched "
+"by UbuntuKylin Team for Chinese Linux users.</p><p>So far, you can login in "
+"the social network such as renren.</p></body></html>"
+msgstr ""
+
+#: ../src/aboutdialog.ui:168
+msgctxt "AboutDialog|"
+msgid "Contributors"
+msgstr ""
+
+#: ../src/aboutdialog.ui:186
+msgctxt "AboutDialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:12pt; color:#000000;\">Authors &amp; "
+"Maintainers:</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Ubuntu'; font-size:12pt; "
+"color:#000000;\">zhangchao &lt;</span><a "
+"href=\"zhangchao@ubuntukylin.com\"><span style=\" font-family:'Ubuntu'; "
+"font-size:11pt; text-decoration: underline; "
+"color:#0000ff;\">zhangchao@ubuntukylin.com</span></a><span style=\" "
+"font-family:'Ubuntu'; font-size:12pt; color:#000000;\">&gt;</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Ubuntu'; font-size:12pt; color:#000000;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:12pt; color:#000000;\">UI "
+"Designers：</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+"text-indent:0px;\"><span style=\" font-family:'Ubuntu'; font-size:12pt; "
+"color:#000000;\">lizhang &lt;</span><a "
+"href=\"zhangli@ubuntukylin.com\"><span style=\" font-family:'Ubuntu'; "
+"font-size:11pt; text-decoration: underline; "
+"color:#0000ff;\">zhangli@ubuntukylin.com</span></a><span style=\" "
+"font-family:'Ubuntu'; font-size:12pt; "
+"color:#000000;\">&gt;</span></p></body></html>"
+msgstr ""
+
+#: ../src/aboutdialog.ui:218
+msgctxt "AboutDialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\">License: GPL-3</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Ubuntu'; font-size:11pt;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\">This package is free software; you "
+"can redistribute it and/or modify it under the terms of the GNU General "
+"Public License as published by the Free Software Foundation; either version "
+"3 of the License.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Ubuntu'; font-size:11pt;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\">This package is distributed in the "
+"hope that it will be useful,but WITHOUT ANY WARRANTY; without even the "
+"implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  "
+"See the GNU General Public License for more details.</span></p>\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Ubuntu'; font-size:11pt;\"><br /></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\">You should have received a copy of "
+"the GNU General Public License along with this program. If not, see "
+"&lt;http://www.gnu.org/licenses/&gt;</span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\"> </span></p>\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'Ubuntu'; font-size:11pt;\">On Debian systems, the complete text "
+"of the GNU General Public License version 3 can be found in "
+"&quot;/usr/share/common-licenses/GPL-3&quot;.</span></p></body></html>"
+msgstr ""
+
+#: ../src/aboutdialog.ui:254
+msgctxt "AboutDialog|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Sans'; font-size:10pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+"margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" "
+"font-family:'arial,sans-serif'; font-size:12pt; color:#2b2b2b; "
+"background-color:#fafafa;\">If have any questions, suggestions, demand about "
+"the project, or want to contribute, are available to the project home page "
+"communication, discussion and participation. We look forward to your "
+"feedback and join us!</span></p></body></html>"
+msgstr ""
+
+#: ../src/aboutdialog.ui:203
+msgctxt "AboutDialog|"
+msgid "License"
+msgstr ""
+
+#: ../src/aboutdialog.ui:239
+msgctxt "AboutDialog|"
+msgid "Join Us"
+msgstr ""
+
+#: ../src/aboutdialog.ui:281
+msgctxt "AboutDialog|"
+msgid "Lotus  V1.0  Alpha2"
+msgstr ""
+
+#: ../src/facepanel.ui:14
+msgctxt "FacePanel|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/facepreview.ui:20
+msgctxt "FacePreview|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/facepreview.ui:38
+msgctxt "FacePreview|"
+msgid "TextLabel"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:14
+msgctxt "GroupChatDlg|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:26
+msgctxt "GroupChatDlg|"
+msgid "avatar"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:70
+msgctxt "GroupChatDlg|"
+msgid "groupname"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:113
+msgctxt "GroupChatDlg|"
+msgid ""
+"<html><head/><body><p><span style=\" font-size:10pt; "
+"color:#0000ff;\">Ctrl+Q</span></p></body></html>"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:119
+msgctxt "GroupChatDlg|"
+msgid "Close"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:122
+msgctxt "GroupChatDlg|"
+msgid "Ctrl+Q"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:135
+msgctxt "GroupChatDlg|"
+msgid ""
+"<html><head/><body><p><span style=\" font-size:10pt; "
+"color:#0000ff;\">Ctrl+Enter</span></p></body></html>"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:141
+msgctxt "GroupChatDlg|"
+msgid "Send"
+msgstr ""
+
+#: ../src/groupchatdlg.ui:144
+msgctxt "GroupChatDlg|"
+msgid "Ctrl+Return"
+msgstr ""
+
+#: ../src/loginwin.ui:14
+msgctxt "LoginWin|"
+msgid "LoginWin"
+msgstr ""
+
+#: ../src/loginwin.ui:58
+msgctxt "LoginWin|"
+msgid "Keep Password"
+msgstr ""
+
+#: ../src/loginwin.ui:82
+msgctxt "LoginWin|"
+msgid "Login"
+msgstr ""
+
+#: ../src/loginwin.ui:199
+msgctxt "LoginWin|"
+msgid "Registe"
+msgstr ""
+
+#: ../src/loginwin.ui:212
+msgctxt "LoginWin|"
+msgid ""
+"<html><head/><body><p align=\"center\"><span style=\" "
+"color:#ffffff;\">Lotus</span></p></body></html>"
+msgstr ""
+
+#: ../src/loginwin.cpp:81
+msgctxt "LoginWin|"
+msgid "User name or password is empty"
+msgstr ""
+
+#: ../src/loginloadwin.ui:17
+msgctxt "LoginloadWin|"
+msgid "Form"
+msgstr ""
+
+#: ../src/loginloadwin.ui:75
+msgctxt "LoginloadWin|"
+msgid ""
+"<html><head/><body><p align=\"center\"><span style=\" font-size:14pt; "
+"color:#ffffff;\">Lotus</span></p></body></html>"
+msgstr ""
+
+#: ../src/loginloadwin.ui:115
+msgctxt "LoginloadWin|"
+msgid "Cancel"
+msgstr ""
+
+#: ../src/loginloadwin.ui:153
+msgctxt "LoginloadWin|"
+msgid ""
+"<html><head/><body><p align=\"center\"><span style=\" "
+"color:#ffffff;\">Connecting the server...</span></p></body></html>"
+msgstr ""
+
+#: ../src/loginloadwin.cpp:78 ../src/loginloadwin.cpp:91
+#: ../src/loginloadwin.cpp:97 ../src/loginloadwin.cpp:103
+msgctxt "LoginloadWin|"
+msgid "Login Error"
+msgstr ""
+
+#: ../src/loginloadwin.cpp:79
+msgctxt "LoginloadWin|"
+msgid "Connect timeout!"
+msgstr ""
+
+#: ../src/loginloadwin.cpp:91
+msgctxt "LoginloadWin|"
+msgid "Disconnect!"
+msgstr ""
+
+#: ../src/loginloadwin.cpp:97
+msgctxt "LoginloadWin|"
+msgid "Disconnect! Please check your network and login again."
+msgstr ""
+
+#: ../src/loginloadwin.cpp:103
+msgctxt "LoginloadWin|"
+msgid "Please check your username or password."
+msgstr ""
+
+#: ../src/lotus.ui:14
+msgctxt "Lotus|"
+msgid "Form"
+msgstr ""
+
+#: ../src/lotus.ui:64
+msgctxt "Lotus|"
+msgid ""
+"Click Here\n"
+"Set Avatar"
+msgstr ""
+
+#: ../src/lotus.ui:95
+msgctxt "Lotus|"
+msgid "username"
+msgstr ""
+
+#: ../src/lotus.ui:194
+msgctxt "Lotus|"
+msgid "+"
+msgstr ""
+
+#: ../src/lotus.ui:283
+msgctxt "Lotus|"
+msgid "servername"
+msgstr ""
+
+#: ../src/lotus.cpp:161
+msgctxt "Lotus|"
+msgid "Please choose avatar"
+msgstr ""
+
+#: ../src/lotus.cpp:174
+msgctxt "Lotus|"
+msgid "Update Avatar"
+msgstr ""
+
+#: ../src/lotus.cpp:174
+msgctxt "Lotus|"
+msgid "Read pixmap error!"
+msgstr ""
+
+#: ../src/lotus.cpp:183
+msgctxt "Lotus|"
+msgid "Remove Friends"
+msgstr ""
+
+#: ../src/lotus.cpp:184
+#, qt-format
+msgctxt "Lotus|"
+msgid "Do you want to remove your friend: <font color=\"red\">%1</font>"
+msgstr ""
+
+#: ../src/lotus.cpp:240 ../src/lotus.cpp:265
+msgctxt "Lotus|"
+msgid "Error"
+msgstr ""
+
+#: ../src/lotus.cpp:240
+msgctxt "Lotus|"
+msgid "The chatting room is on the list!"
+msgstr ""
+
+#: ../src/lotus.cpp:249 ../src/lotus.cpp:896
+msgctxt "Lotus|"
+msgid "Tips"
+msgstr ""
+
+#: ../src/lotus.cpp:250
+#, qt-format
+msgctxt "Lotus|"
+msgid "Do you want to quit the chatting room %1 ?"
+msgstr ""
+
+#: ../src/lotus.cpp:265
+#, qt-format
+msgctxt "Lotus|"
+msgid "You cann't join in the room %1"
+msgstr ""
+
+#: ../src/lotus.cpp:451 ../src/lotus.cpp:458 ../src/lotus.cpp:464
+msgctxt "Lotus|"
+msgid "Connect Error"
+msgstr ""
+
+#: ../src/lotus.cpp:451
+msgctxt "Lotus|"
+msgid "Disconnect!"
+msgstr ""
+
+#: ../src/lotus.cpp:458
+msgctxt "Lotus|"
+msgid "Disconnect! Please check your network and login again!"
+msgstr ""
+
+#: ../src/lotus.cpp:464
+msgctxt "Lotus|"
+msgid "The server is disconnect!"
+msgstr ""
+
+#: ../src/lotus.cpp:492
+msgctxt "Lotus|"
+msgid "Apply for Adding New Friends"
+msgstr ""
+
+#: ../src/lotus.cpp:493
+msgctxt "Lotus|"
+msgid "Accept"
+msgstr ""
+
+#: ../src/lotus.cpp:496
+msgctxt "Lotus|"
+msgid "Accept & Add New Friend"
+msgstr ""
+
+#: ../src/lotus.cpp:499
+msgctxt "Lotus|"
+msgid "Refuse"
+msgstr ""
+
+#: ../src/lotus.cpp:500
+#, qt-format
+msgctxt "Lotus|"
+msgid ""
+"<font color=\"red\">%1</font> has added you as new friend, do you agree?"
+msgstr ""
+
+#: ../src/lotus.cpp:802 ../src/lotus.cpp:812 ../src/lotus.cpp:839
+msgctxt "Lotus|"
+msgid "Edit here to update your status or signature"
+msgstr ""
+
+#: ../src/lotus.cpp:896
+msgctxt "Lotus|"
+msgid "Do you want to quit?"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:14
+msgctxt "PersonalChatDlg|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:26
+msgctxt "PersonalChatDlg|"
+msgid "avatar"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:70
+msgctxt "PersonalChatDlg|"
+msgid "friendname"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:93
+msgctxt "PersonalChatDlg|"
+msgid ""
+"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" "
+"\"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
+"<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+"type=\"text/css\">\n"
+"p, li { white-space: pre-wrap; }\n"
+"</style></head><body style=\" font-family:'Ubuntu'; font-size:11pt; "
+"font-weight:400; font-style:normal;\">\n"
+"<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; "
+"margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; "
+"font-family:'Sans Serif'; font-size:9pt;\"><br /></p></body></html>"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:113
+msgctxt "PersonalChatDlg|"
+msgid ""
+"<html><head/><body><p><span style=\" font-size:10pt; "
+"color:#0000ff;\">Ctrl+Q</span></p></body></html>"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:119
+msgctxt "PersonalChatDlg|"
+msgid "Close"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:122
+msgctxt "PersonalChatDlg|"
+msgid "Ctrl+Q"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:135
+msgctxt "PersonalChatDlg|"
+msgid ""
+"<html><head/><body><p><span style=\" font-size:10pt; "
+"color:#0000ff;\">Ctrl+Enter</span></p></body></html>"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:141
+msgctxt "PersonalChatDlg|"
+msgid "Send"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:144
+msgctxt "PersonalChatDlg|"
+msgid "Ctrl+Return"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:170
+msgctxt "PersonalChatDlg|"
+msgid "Save As"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:183
+msgctxt "PersonalChatDlg|"
+msgid "Refuse"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:196
+msgctxt "PersonalChatDlg|"
+msgid "Send Files"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:209
+msgctxt "PersonalChatDlg|"
+msgid "ownAvatar"
+msgstr ""
+
+#: ../src/personalchatdlg.ui:225
+msgctxt "PersonalChatDlg|"
+msgid "friendAvatar"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:127
+#, qt-format
+msgctxt "PersonalChatDlg|"
+msgid "%1 sends the file %2 to you"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:151
+#, qt-format
+msgctxt "PersonalChatDlg|"
+msgid "The File transfer is failed: %1"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:157
+#, qt-format
+msgctxt "PersonalChatDlg|"
+msgid "The file transfer progress is %1/%2"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:71
+#, qt-format
+msgctxt "PersonalChatDlg|"
+msgid ""
+"<font color='blue'>Me</font><font color='green'> %1</font><font "
+"color='black'>%2</font>"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:81
+#, qt-format
+msgctxt "PersonalChatDlg|"
+msgid ""
+"<font color='blue'>%1 </font><font color='green'>%2</font><font "
+"color='black'>%3"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:163
+msgctxt "PersonalChatDlg|"
+msgid "The file transfer is finished!"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:234
+msgctxt "PersonalChatDlg|"
+msgid "Send Error"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:234
+msgctxt "PersonalChatDlg|"
+msgid ""
+"Please make sure whether each other online, you can only send files to the "
+"online users!"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:243
+msgctxt "PersonalChatDlg|"
+msgid "Save File"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:274
+msgctxt "PersonalChatDlg|"
+msgid "Select All"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:276
+msgctxt "PersonalChatDlg|"
+msgid "Copy"
+msgstr ""
+
+#: ../src/personalchatdlg.cpp:277
+msgctxt "PersonalChatDlg|"
+msgid "Clear"
+msgstr ""
+
+#: ../src/rosterItem.cpp:37 ../src/rosterItem.cpp:61
+msgctxt "QObject|"
+msgid "Offline"
+msgstr ""
+
+#: ../src/rosterItem.cpp:59
+msgctxt "QObject|"
+msgid "Online"
+msgstr ""
+
+#: ../src/registerdialog.ui:14
+msgctxt "RegisterDialog|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/registerdialog.ui:29
+msgctxt "RegisterDialog|"
+msgid "Registe"
+msgstr ""
+
+#: ../src/registerdialog.ui:45
+msgctxt "RegisterDialog|"
+msgid "Cancel"
+msgstr ""
+
+#: ../src/registerdialog.ui:63
+msgctxt "RegisterDialog|"
+msgid "Confirm Password:"
+msgstr ""
+
+#: ../src/registerdialog.ui:111
+msgctxt "RegisterDialog|"
+msgid "Password:"
+msgstr ""
+
+#: ../src/registerdialog.ui:144
+msgctxt "RegisterDialog|"
+msgid "User Name:"
+msgstr ""
+
+#: ../src/registerdialog.cpp:57
+msgctxt "RegisterDialog|"
+msgid "Finish Registe"
+msgstr ""
+
+#: ../src/registerdialog.cpp:57
+msgctxt "RegisterDialog|"
+msgid "User registe successfully!"
+msgstr ""
+
+#: ../src/registerdialog.cpp:63 ../src/registerdialog.cpp:68
+#: ../src/registerdialog.cpp:101
+msgctxt "RegisterDialog|"
+msgid "Registe Error"
+msgstr ""
+
+#: ../src/registerdialog.cpp:63
+#, qt-format
+msgctxt "RegisterDialog|"
+msgid ""
+"error code: %1 \n"
+"The user is exist. Please registe again!"
+msgstr ""
+
+#: ../src/registerdialog.cpp:68
+#, qt-format
+msgctxt "RegisterDialog|"
+msgid "error code: %1"
+msgstr ""
+
+#: ../src/registerdialog.cpp:101
+msgctxt "RegisterDialog|"
+msgid "The confirm password is error, please input the password again!"
+msgstr ""
+
+#: ../src/registerdialog.cpp:110
+msgctxt "RegisterDialog|"
+msgid "Registing, please waiting..."
+msgstr ""
+
+#: ../src/rosterItem.cpp:245
+msgctxt "RosterItemDelegate|"
+msgid "Delete"
+msgstr ""
+
+#: ../src/searchdlg.ui:14
+msgctxt "SearchDlg|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/searchdlg.ui:49 ../src/searchdlg.ui:121
+msgctxt "SearchDlg|"
+msgid "Add Friends"
+msgstr ""
+
+#: ../src/searchdlg.ui:70
+msgctxt "SearchDlg|"
+msgid "Search Rooms"
+msgstr ""
+
+#: ../src/searchdlg.ui:105
+msgctxt "SearchDlg|"
+msgid "Search"
+msgstr ""
+
+#: ../src/searchdlg.ui:168
+msgctxt "SearchDlg|"
+msgid "User:"
+msgstr ""
+
+#: ../src/searchdlg.ui:137 ../src/searchdlg.ui:224
+msgctxt "SearchDlg|"
+msgid "Close"
+msgstr ""
+
+#: ../src/searchdlg.ui:240
+msgctxt "SearchDlg|"
+msgid "Refresh"
+msgstr ""
+
+#: ../src/searchdlg.ui:256
+msgctxt "SearchDlg|"
+msgid "Join"
+msgstr ""
+
+#: ../src/searchdlg.cpp:173 ../src/searchdlg.cpp:379 ../src/searchdlg.cpp:387
+msgctxt "SearchDlg|"
+msgid "Tips"
+msgstr ""
+
+#: ../src/searchdlg.cpp:379
+msgctxt "SearchDlg|"
+msgid "Refresh the chatting room list timeout!"
+msgstr ""
+
+#: ../src/searchdlg.cpp:387
+msgctxt "SearchDlg|"
+msgid "Search the users timeout!"
+msgstr ""
+
+#: ../src/settings.ui:14
+msgctxt "Settings|"
+msgid "Dialog"
+msgstr ""
+
+#: ../src/settings.ui:31
+msgctxt "Settings|"
+msgid "The Server Setting:"
+msgstr ""
+
+#: ../src/settings.ui:47
+msgctxt "Settings|"
+msgid "OK"
+msgstr ""
+
+#: ../src/settings.ui:63
+msgctxt "Settings|"
+msgid "Cancel"
+msgstr ""
+
+#: ../src/settings.ui:99
+msgctxt "Settings|"
+msgid "210.209.123.136"
+msgstr ""
+
+#: ../src/settings.ui:104
+msgctxt "Settings|"
+msgid "talk.renren.com"
+msgstr ""
